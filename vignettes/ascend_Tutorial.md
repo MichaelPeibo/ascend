@@ -70,7 +70,7 @@ Please use `devtools` to load the development version of `ascend`.
 
 
 ```r
-devtools::load_all("~/CodeRepositories/ascend-dev")
+devtools::load_all("~/CodeRepositories/ascend")
 ```
 
 ```
