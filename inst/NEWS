@@ -1,3 +1,7 @@
+version 0.2.7 (2018-01-11)
+- Added 'ngenes' argument to RunDiffExpression function, enabling users to run
+analysis on top n genes
+
 version 0.2.6 (2018-01-10)
 - Fixed SubsetCondition
 - Fixed RunDiffExpression for non-cluster differential expression function
