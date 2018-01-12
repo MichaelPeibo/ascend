@@ -1,3 +1,6 @@
+version 0.2.8 (2018-01-12)
+- Fixed bug associated with scranNormalise's conversion of a SCE object back into an EMSet
+
 version 0.2.7 (2018-01-11)
 - Added 'ngenes' argument to RunDiffExpression function, enabling users to run
 analysis on top n genes
